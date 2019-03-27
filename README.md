@@ -29,3 +29,7 @@ int main()
 `$ ./hello    
 `Hello, World!`
 
+### Install Make
+
+`$ sudo apt install make`
+
