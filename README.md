@@ -2,6 +2,11 @@
 
 ## Configure Development Environment
 
-### Install GCC Compiler and Build Essentials
+### Pull down SORC dotfiles:
 
-`$ sudo apt−get install build−essential`
+`$ cd ~/`
+`git clone https://github.com/sorc-lab/sorc-dotfiles.git`
+
+### Install GCC Compiler
+
+`$ sudo apt−get install gcc`
