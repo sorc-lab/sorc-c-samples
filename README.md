@@ -4,7 +4,7 @@
 
 ### Pull down SORC dotfiles:
 
-`$ cd ~/`
+`$ cd ~/`    
 `git clone https://github.com/sorc-lab/sorc-dotfiles.git`
 
 ### Install GCC Compiler
