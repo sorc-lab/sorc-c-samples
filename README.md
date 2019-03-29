@@ -26,10 +26,13 @@ int main()
 ```
 
 `$ gcc -o hello hello.c`    
-`$ ./hello    
+`$ ./hello`    
 `Hello, World!`
 
 ### Install Make
 
 `$ sudo apt install make`
 
+### Install GNU Debugger
+
+`$ sudo apt install gdb`
