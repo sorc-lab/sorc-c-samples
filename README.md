@@ -1,12 +1,12 @@
 # Configure Development Environment
 
-## Configure VIM
+### Configure VIM
 
 `$ cd ~/`    
 `$ git clone https://github.com/sorc-lab/sorc-dotfiles.git`    
 `$ mv sorc-dotfiles/.vimrc .`
 
-## Install GCC Compiler
+### Install GCC Compiler
 
 `$ sudo apt−get install gcc`    
 
@@ -36,3 +36,12 @@ int main()
 ### Install GNU Debugger
 
 `$ sudo apt install gdb`
+
+### Using GDB
+
+`$ gdb ./ex1`
+`$ gdb run`
+
+If the program were to seg fault, run `bt` to get a back trace.
+`$ bt`
+
