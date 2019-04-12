@@ -1,0 +1,7 @@
+#!/bin/bash
+
+gcc -o person person.c
+
+echo
+./person && make clean
+
