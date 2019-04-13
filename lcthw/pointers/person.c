@@ -38,7 +38,7 @@ void PersonPrint(struct Person* Who)
 	printf("Name: %s\n", Who->Name);
 	printf("\tAge: %d\n", Who->Age);
 	printf("\tHeight: %d\n", Who->Height);
-	printf("\tWeight: %d\n", Who->Height);
+	printf("\tWeight: %d\n", Who->Weight);
 }
 
 int main(int argc, char* argv[])
