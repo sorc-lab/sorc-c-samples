@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SORCCSamples.cpp">
+    <ClCompile Include="SORCCSamples.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

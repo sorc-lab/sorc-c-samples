@@ -1,11 +1,11 @@
-// SORCCSamples.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// SORCCSamples.c : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	printf("hello world, from Visual Studio Community 2019 v16\n");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
